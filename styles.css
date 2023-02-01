@@ -1,0 +1,253 @@
+/*TOP CONTAINER CONTENTS*/
+
+body, html {
+    background-color: #567189;
+    color:floralwhite;
+    margin: 0 auto;
+    text-align: center;
+    font-family: 'Merriweather', serif;  
+    width: 100%;
+    height: 100%;
+    }
+
+p {
+    font-size: 30px;
+    color:floralwhite;
+    text-align: center;
+}
+
+.top-cloud {
+    position: absolute;
+    right: 300px;
+    top: 50px;
+     
+}
+
+.bottom-cloud{
+    position: absolute;
+    left: 300px;
+    bottom: 300px;
+}
+
+h1 {
+    margin: 50px auto 0 auto;
+    font-family: 'Sacramento', cursive;
+    font-size: 562.5%;
+    line-height: 2rem;
+    font-weight: normal;
+}
+
+.web {
+    text-decoration: underline;
+}
+
+/*MIDDLE CONTAINER CONTENTS*/
+
+.headshot {
+    height: 300px;
+    width: 300px;
+    object-fit: cover;
+    border-radius: 100%;
+    margin-top: 5%;
+}
+
+h2 {
+    font-family: 'Montserrat', sans-serif;
+    font-size: 2.5rem;
+    font-weight: normal;
+}
+
+.hello {
+    text-decoration: underline;
+    text-decoration-color: #fff;
+}
+
+.box {
+    border: none;
+  width: 350px;
+  padding: 50px;
+  margin: 20px auto;
+  position: relative;
+  bottom: 350px;
+  left: 0;
+}
+
+.p3 {
+    font-size:larger;
+    position: relative;
+    top: 300px;
+    margin-bottom: -50px;
+}
+
+hr {
+    border-style: dotted none none;
+    border-color: #fff;
+    border-width: 5px;
+    width: 5%;
+}
+/* BELOW ARE CHEFD_ZA CONTENTS*/
+
+.skill-row {
+    padding-bottom: 100px;
+    padding top: 50px;
+}
+
+.chefd-img {
+    height: 300px;
+    width: 300px;
+    border-radius: 100%;
+    position: relative;
+    right: 350px; 
+}
+
+h3 {
+    font-family: 'Montserrat', sans-serif;
+    font-size: 2.5rem; 
+}
+
+.cdza {
+    font-family: 'Montserrat', sans-serif;
+    position: relative;
+    bottom: 300px;
+    left: 200px; 
+    font-size: 2.5rem;   
+}
+
+.p1 {
+    font-family: 'Sacramento', cursive;
+    font-size: 2.5rem;
+    position: relative;
+    bottom: 325px;
+    left: 200px;
+}
+
+.p2 {
+    font-size:larger;
+    position: relative;
+    bottom: 50px;
+    left: 200px;
+}
+
+.gallery {
+    display: inline;
+    width: 200px;
+    height: 200px;
+    position: relative;
+    bottom: 400px;
+    object-fit: cover;
+}
+
+/*BELOW ARE DAHNIDOESTECH CONTENTS*/
+
+.chesh {
+    height: 300px;
+    width: 300px;
+    border-radius: 100%;
+    padding-top: 20px;
+    position: relative;
+    left: 350px;
+    bottom: 350px;   
+}
+
+.ddt {
+    font-family: 'Montserrat', sans-serif;
+    position: relative;
+    bottom: 650px;
+    right: 200px;   
+    font-size: 2.5rem; 
+}
+
+.p4 {
+    font-family: 'Sacramento', cursive;
+    font-size: 2.5rem;
+    position: relative;
+    bottom: 670px;
+    right: 200px;
+}
+
+.box-1 {
+    border: none;
+  width: 350px;
+  padding: 50px;
+  margin: 20px auto;
+  position: relative;
+  bottom: 350px;
+  left: 0;
+}
+
+.p5 {
+    font-size:larger;
+    position: relative;
+    bottom: 375px;
+    right: 200px;
+}
+
+.gallery-2 {
+    display: inline;
+    width: auto;
+    height: auto;
+    position: relative;
+    bottom: 800px;
+}
+
+.hr-2{
+    position: relative;
+    bottom: 700px;
+    
+}
+
+/*BOTTOM-CONTAINER CONTENTS*/
+
+.contact-me {
+    position: relative;
+    bottom: 700px;
+}
+
+.btn {
+    background: #3498db;
+    background-image: -webkit-linear-gradient(top, #3498db, #2980b9);
+    background-image: -moz-linear-gradient(top, #3498db, #2980b9);
+    background-image: -ms-linear-gradient(top, #3498db, #2980b9);
+    background-image: -o-linear-gradient(top, #3498db, #2980b9);
+    background-image: linear-gradient(to bottom, #3498db, #2980b9);
+    -webkit-border-radius: 28;
+    -moz-border-radius: 28;
+    border-radius: 8px;
+    font-family: Arial;
+    color: #ffffff;
+    font-size: 20px;
+    padding: 10px 20px 10px 20px;
+    text-decoration: none;
+  }
+  
+  .btn:hover {
+    background: #3cb0fd;
+    background-image: -webkit-linear-gradient(top, #3cb0fd, #3498db);
+    background-image: -moz-linear-gradient(top, #3cb0fd, #3498db);
+    background-image: -ms-linear-gradient(top, #3cb0fd, #3498db);
+    background-image: -o-linear-gradient(top, #3cb0fd, #3498db);
+    background-image: linear-gradient(to bottom, #3cb0fd, #3498db);
+    text-decoration: none;
+  }
+
+  .footer-1 {
+    font-family: 'Montserrat', sans-serif;
+    font-size: small;
+}
+
+  /*BELOW ARE THE BACKGROUND COLOR SCHEMES*/
+
+.top-container {
+    background-color: #567189;
+    padding-top: 100px;
+    overflow-x: hidden;
+}
+
+.middle-container{
+    background-color:#7B8FA1;
+    margin: 0 auto;
+}
+
+.bottom-container{
+    background-color:#CFB997; 
+}
