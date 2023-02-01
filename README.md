@@ -1,2 +1,2 @@
-# Portfoliio
-Protfolio of Experience and Projects
+# Personal Website
+Personal Website of Experience and Projects
